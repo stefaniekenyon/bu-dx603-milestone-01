@@ -1,1 +1,1 @@
-# bu-dx603-milestone-01-smkenyon
+# bu-dx603-milestone-01
